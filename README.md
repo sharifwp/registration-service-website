@@ -1,8 +1,4 @@
-# registration-service-website  
-A custom WordPress website developed for **registration services**. The site offers detailed service listings, user registration forms, and a fully responsive, SEO-optimized design to ensure smooth and seamless user interaction.  
-
 # Registration Service Website – [Live Website](https://trademarkwinners.com/)
-
 ---
 
 ## 🌐 Overview  
