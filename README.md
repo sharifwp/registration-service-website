@@ -2,7 +2,7 @@
 ---
 
 ## 🌐 Overview  
-This **custom WordPress website** is built specifically for **registration services**, featuring a user-friendly design with **service listings** and integrated **user registration forms**. The responsive, **SEO-optimized design** provides a smooth experience across devices, making it easy for users to engage with services and complete registrations.
+This **custom WordPress website** is built specifically for **Registration Services**, featuring a user-friendly design with **Service listings** and integrated **User registration forms**. The responsive, **SEO-optimized design** provides a smooth experience across devices, making it easy for users to engage with services and complete registrations.
 
 With an intuitive interface and optimized performance, the website is designed to cater to the needs of both service providers and end-users, ensuring efficient registration and streamlined service delivery.
 
