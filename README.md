@@ -42,4 +42,4 @@ With an intuitive interface and optimized performance, the website is designed t
 ---
 
 **More Projects:**  
-Check out my other work on my [GitHub Profile](https://github.com/saifwp)
+Check out my other work on my [GitHub Profile](https://github.com/sharifwp)
